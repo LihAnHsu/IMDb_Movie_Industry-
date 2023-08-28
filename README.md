@@ -25,4 +25,4 @@ Finding:
 
 Here's the viz final result, feel free to poke around the dashboard:
 
-https://public.tableau.com/views/MovieIndustryAnalysis_CapstoneProject/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/GeneralInsightsofMovieIndustry/MovieIndustry?:language=en-US&:display_count=n&:origin=viz_share_link
